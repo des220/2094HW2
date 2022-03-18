@@ -1,0 +1,10 @@
+Package: HW2
+Type: Package
+Title: returns log or sqrt of input value
+Version: 0.1.0
+Author: Dengxiaoyu Shi
+Maintainer: des220@pitt.edu
+Description: returns log or sqrt of input value and error message when input value less or equal to 0
+License: MIT
+Encoding: UTF-8
+LazyData: true
